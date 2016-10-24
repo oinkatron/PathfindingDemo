@@ -1,0 +1,151 @@
+Walking Sprite: w_u
+Standing Sprite: s_u
+Walking Sprite: w_d
+Standing Sprite: s_d
+Walking Sprite: w_r
+Standing Sprite: s_r
+Walking Sprite: w_l
+Standing Sprite: s_l
+res/tilesheets/test.tsh
+Tilesheet dimens: 587 : 587 | 48 : 48
+Map Gen: 3
+Map Width: 189 ; Map Height: 189
+Cell Width: 27 : Cell Height: 27
+Starting Cell: 5 : 4
+Carving rooms...
+Path : 137 : 114 to 128 : 55 and 133 : -1
+Horizontal
+Snake Path
+Path : 128 : 56 to 171 : 46 and 154 : -1
+Horizontal
+Snake Path
+Path : 176 : 44 to 109 : 100 and 16777216 : 33025
+Horizontal
+Elbow Path
+comparing: 176 : 109
+Path : 131 : 101 to 129 : 182 and 129 : -1
+Horizontal
+Snake Path
+Path : 132 : 169 to 32 : 150 and -1 : 163
+Snake Path
+Path : 39 : 151 to 99 : 129 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 39 : 99
+Path : 94 : 118 to 1 : 184 and 33554432 : 0
+Horizontal
+Elbow Path
+comparing: 94 : 1
+Path : 10 : 187 to 136 : 172 and 132 : -1
+Horizontal
+Snake Path
+Path : 137 : 172 to 136 : 68 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 137 : 136
+Path : 136 : 67 to 52 : 174 and 136 : -1
+Horizontal
+Snake Path
+Path : 41 : 183 to 153 : 148 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 41 : 153
+Path : 149 : 147 to 23 : 92 and -1 : 117
+Snake Path
+Path : 9 : 82 to 14 : 76 and -1 : 79
+Snake Path
+Path : 8 : 54 to 92 : 76 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 8 : 92
+Path : 84 : 76 to 10 : 148 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 84 : 10
+Path : 18 : 148 to 86 : 92 and -1 : 143
+Snake Path
+Path : 101 : 89 to 168 : 67 and 145 : -1
+Horizontal
+Snake Path
+Path : 184 : 76 to 68 : 141 and -1 : 79
+Snake Path
+Path : 63 : 141 to 47 : 127 and -1 : 128
+Snake Path
+Path : 48 : 111 to 80 : 174 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 48 : 80
+Path : 80 : 176 to 87 : 31 and 85 : -1
+Horizontal
+Snake Path
+Path : 87 : 33 to 15 : 108 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 87 : 15
+Path : 26 : 116 to 166 : 96 and 110 : -1
+Horizontal
+Snake Path
+Path : 166 : 97 to 69 : 117 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 166 : 69
+Path : 64 : 124 to 56 : 34 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 64 : 56
+Path : 70 : 32 to 93 : 167 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 70 : 93
+Path : 91 : 165 to 151 : 101 and -1 : 106
+Snake Path
+Path : 149 : 93 to 39 : 86 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 149 : 39
+Path : 37 : 102 to 170 : 141 and -1 : 118
+Snake Path
+Path : 185 : 152 to 178 : 131 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 185 : 178
+Path : 174 : 128 to 49 : 66 and 146 : -1
+Horizontal
+Snake Path
+Path : 48 : 62 to 68 : 78 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 48 : 68
+Path : 66 : 80 to 75 : 83 and -1 : 80
+Snake Path
+Path : 72 : 106 to 6 : 41 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 72 : 6
+Path : 16 : 31 to 179 : 174 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 16 : 179
+Path : 181 : 187 to 135 : 36 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 181 : 135
+Path : 143 : 33 to 119 : 143 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 143 : 119
+Path : 120 : 136 to 120 : 53 and 0 : 0
+Straight Path
+Elbow Path
+Path : 120 : 53 to 120 : 125 and 0 : 0
+Straight Path
+Elbow Path
+Path : 123 : 125 to 93 : 136 and 0 : 0
+Horizontal
+Elbow Path
+comparing: 123 : 93
+Path : 93 : 146 to 48 : 51 and 55 : -1
+Horizontal
+Snake Path
+Start X: 140 : Start Y: 112
+Object: "Object 1" flagged for deletion

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDLRandomWorldTest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SDLRandomWorldTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SDLRandomWorldTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/SDL-1.2.15/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="SDL_image" />
+			<Add library="SDL_ttf" />
+			<Add library="SDL_gfx" />
+			<Add directory="C:/SDL-1.2.15/lib" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="include/BoundsModule.h" />
+		<Unit filename="include/Button.h" />
+		<Unit filename="include/Camera.h" />
+		<Unit filename="include/CmdObjectLifeExpired.h" />
+		<Unit filename="include/CmdSkillActivated.h" />
+		<Unit filename="include/DataFile.h" />
+		<Unit filename="include/Font.h" />
+		<Unit filename="include/Frame.h" />
+		<Unit filename="include/GUIManager.h" />
+		<Unit filename="include/GameCommand.h" />
+		<Unit filename="include/GameEngine.h" />
+		<Unit filename="include/GameState.h" />
+		<Unit filename="include/HealthModule.h" />
+		<Unit filename="include/Image.h" />
+		<Unit filename="include/ImageModule.h" />
+		<Unit filename="include/Label.h" />
+		<Unit filename="include/LifetimeModule.h" />
+		<Unit filename="include/LifetimeSystem.h" />
+		<Unit filename="include/Map.h" />
+		<Unit filename="include/MapGenerator.h" />
+		<Unit filename="include/MapModule.h" />
+		<Unit filename="include/MetaInfoModule.h" />
+		<Unit filename="include/Module.h" />
+		<Unit filename="include/MouseHandler.h" />
+		<Unit filename="include/MovementSystem.h" />
+		<Unit filename="include/OMath.h" />
+		<Unit filename="include/Object.h" />
+		<Unit filename="include/ObjectManager.h" />
+		<Unit filename="include/ObjectMethods.h" />
+		<Unit filename="include/PositionModule.h" />
+		<Unit filename="include/RenderSystem.h" />
+		<Unit filename="include/Renderer.h" />
+		<Unit filename="include/Scene.h" />
+		<Unit filename="include/SetWayPointCommand.h" />
+		<Unit filename="include/Skill.h" />
+		<Unit filename="include/SkillSetModule.h" />
+		<Unit filename="include/Sprite.h" />
+		<Unit filename="include/SpriteModule.h" />
+		<Unit filename="include/SpriteSet.h" />
+		<Unit filename="include/SpriteSystem.h" />
+		<Unit filename="include/State.h" />
+		<Unit filename="include/StateMachine.h" />
+		<Unit filename="include/System.h" />
+		<Unit filename="include/Tilesheet.h" />
+		<Unit filename="include/Variable.h" />
+		<Unit filename="include/VelocityModule.h" />
+		<Unit filename="include/WaypointModule.h" />
+		<Unit filename="include/WaypointSystem.h" />
+		<Unit filename="include/string_func.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/BoundsModule.cpp" />
+		<Unit filename="src/Button.cpp" />
+		<Unit filename="src/Camera.cpp" />
+		<Unit filename="src/CmdObjectLifeExpired.cpp" />
+		<Unit filename="src/CmdSkillActivated.cpp" />
+		<Unit filename="src/DataFile.cpp" />
+		<Unit filename="src/Font.cpp" />
+		<Unit filename="src/Frame.cpp" />
+		<Unit filename="src/GUIManager.cpp" />
+		<Unit filename="src/GameCommand.cpp" />
+		<Unit filename="src/GameEngine.cpp" />
+		<Unit filename="src/GameState.cpp" />
+		<Unit filename="src/HealthModule.cpp" />
+		<Unit filename="src/Image.cpp" />
+		<Unit filename="src/ImageModule.cpp" />
+		<Unit filename="src/Label.cpp" />
+		<Unit filename="src/LifetimeModule.cpp" />
+		<Unit filename="src/LifetimeSystem.cpp" />
+		<Unit filename="src/Map.cpp" />
+		<Unit filename="src/MapGenerator.cpp" />
+		<Unit filename="src/MapModule.cpp" />
+		<Unit filename="src/MetaInfoModule.cpp" />
+		<Unit filename="src/Module.cpp" />
+		<Unit filename="src/MouseHandler.cpp" />
+		<Unit filename="src/MovementSystem.cpp" />
+		<Unit filename="src/Object.cpp" />
+		<Unit filename="src/ObjectManager.cpp" />
+		<Unit filename="src/PositionModule.cpp" />
+		<Unit filename="src/RenderSystem.cpp" />
+		<Unit filename="src/Renderer.cpp" />
+		<Unit filename="src/Scene.cpp" />
+		<Unit filename="src/SetWayPointCommand.cpp" />
+		<Unit filename="src/Skill.cpp" />
+		<Unit filename="src/SkillSetModule.cpp" />
+		<Unit filename="src/Sprite.cpp" />
+		<Unit filename="src/SpriteModule.cpp" />
+		<Unit filename="src/SpriteSet.cpp" />
+		<Unit filename="src/SpriteSystem.cpp" />
+		<Unit filename="src/State.cpp" />
+		<Unit filename="src/StateMachine.cpp" />
+		<Unit filename="src/System.cpp" />
+		<Unit filename="src/Tilesheet.cpp" />
+		<Unit filename="src/Variable.cpp" />
+		<Unit filename="src/VelocityModule.cpp" />
+		<Unit filename="src/WaypointModule.cpp" />
+		<Unit filename="src/WaypointSystem.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

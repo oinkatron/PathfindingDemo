@@ -1,0 +1,10 @@
+[SpriteSet]
+name = "BasicChar"
+walk_up = "w_u"
+walk_down = "w_d"
+walk_right = "w_r"
+walk_left = "w_l"
+stand_up = "s_u"
+stand_left = "s_l"
+stand_down = "s_d"
+stand_right = "s_r"

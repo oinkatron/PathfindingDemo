@@ -1,0 +1,10 @@
+[Sprite]
+image_name = chars.png
+name = sprite_1
+num_frames = 3
+start_x = 0
+start_y = 0
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+

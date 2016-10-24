@@ -1,0 +1,80 @@
+[Sprite]
+image_name = chars.png
+name = w_r
+num_frames = 3
+start_x = 3
+start_y = 2
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+
+[Sprite]
+image_name = chars.png
+name = w_d
+num_frames = 3
+start_x = 3
+start_y = 0
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+
+[Sprite]
+image_name = chars.png
+name = w_l
+num_frames = 3
+start_x = 3
+start_y = 1
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+
+[Sprite]
+image_name = chars.png
+name = w_u
+num_frames = 3
+start_x = 3
+start_y = 3
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+
+[Sprite]
+image_name = chars.png
+name = s_r
+num_frames = 1
+start_x = 4
+start_y = 2
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+
+[Sprite]
+image_name = chars.png
+name = s_d
+num_frames = 1
+start_x = 4
+start_y = 0
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+
+[Sprite]
+image_name = chars.png
+name = s_l
+num_frames = 1
+start_x = 4
+start_y = 1
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+
+[Sprite]
+image_name = chars.png
+name = s_u
+num_frames = 1
+start_x = 4
+start_y = 3
+frame_width = 32
+frame_height = 32
+animation_speed = 150
+

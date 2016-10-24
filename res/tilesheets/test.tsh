@@ -1,0 +1,8 @@
+[Tilesheet]
+image_name = tile_set.png
+sheet_width = 12
+sheet_height = 12
+moo
+tile_height = 48
+offset_x = 1
+offset_y = 1
