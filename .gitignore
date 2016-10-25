@@ -1,0 +1,5 @@
+*.dll
+*.depend
+*.o
+*.cbtmp
+*.cbp
