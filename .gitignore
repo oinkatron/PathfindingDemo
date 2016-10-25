@@ -1,5 +1,7 @@
 *.dll
 *.depend
 *.o
-*.cbtmp
+*.cbTemp
+*.layout
 *.cbp
+*.*~
